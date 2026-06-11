@@ -73,3 +73,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/_Recovery.meta
+Assets/_Recovery/0.unity
+Assets/_Recovery/0.unity.meta
+Assets/Scripts/StrokeWave.shadergraph
+Assets/Scripts/StrokeWave.shadergraph.meta
